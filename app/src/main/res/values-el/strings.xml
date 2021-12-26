@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BudgetMe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="type_category">Πληκτρολόγησε την κατηγορία σου πρώτα</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="delete_all_categories">Θέλεις να διαγράψεις όλες τις κατηγορίες ?</string>
+    <string name="delete_all_transactions">Θέλεις να διαγράψεις όλες τις συναλλαγές ?</string>
+    <string name="category">Κατηγορία: </string>
+    <string name="total_money_in">Συνολικά χρήματα που προσθέθηκαν: </string>
+    <string name="add_category">Προσθέσε την κατηγορία σου</string>
+    <string name="categories">Κατηγορίες:</string>
+    <string name="category_menu">(Προσθέσε μια νέα κατηγορία από το menu στην πάνω δεξιά γωνία)</string>
+    <string name="set_currency">Ρύθμισε το νομισμά σου</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="motto">Μάθε Που Πάνε Τα Χρήματα Σου</string>
+    <string name="history">Ιστορικό:</string>
+    <string name="money_left">Χρήματα που απέμειναν:</string>
+    <string name="percentage_left">Ποσοστό των συνολικών διαθέσιμων χρημάτων: </string>
+    <string name="history_menu">Ιστορικό</string>
+    <string name="more">Περισσότερα:</string>
+    <string name="delete_all">Διαγραφή όλων</string>
+</resources>

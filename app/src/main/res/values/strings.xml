@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BudgetMe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="type_category">Type the category first</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all_categories">Do you want to delete all categories?</string>
+    <string name="delete_all_transactions">Do you want to delete all transactions?</string>
+    <string name="category">Category: </string>
+    <string name="total_money_in">Total Money In: </string>
+    <string name="add_category">Add your category</string>
+    <string name="categories">Categories:</string>
+    <string name="category_menu">(Add a new category from the menu on the right top corner)</string>
+    <string name="set_currency">Set Your Currency</string>
+    <string name="cancel">Cancel</string>
+    <string name="motto">Know Where Your Money Goes</string>
+    <string name="history">History:</string>
+    <string name="money_left">Money left:</string>
+    <string name="percentage_left">Percentage of available budget:</string>
+    <string name="history_menu">History</string>
+    <string name="more">More:</string>
+    <string name="delete_all">Delete all</string>
+
+
+
+</resources>
